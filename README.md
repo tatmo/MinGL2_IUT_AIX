@@ -1,5 +1,5 @@
 # minGL 2
-MinGL 2 est un bibliothèque écrite en C++, évolution de MinGL par Alain Casali, enseignant chercheur au département informatique de l'IUT d'Aix-en-Provence.  
+MinGL 2 est **une** bibliothèque écrite en C++, évolution de MinGL par Alain Casali, enseignant chercheur au département informatique de l'IUT d'Aix-en-Provence.  
 Elle facilite l'affichage de forme primitives et composées, de texte et la réalisation d'animations. Elle permet également de jouer des fichiers audios et de gérer les saisies clavier et souris.
 
 Développé dans un but pédagogique.
